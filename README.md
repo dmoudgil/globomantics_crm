@@ -10,3 +10,5 @@ Still under development
 
 ## really dangerous
 making these changes in github
+
+> Note: version 2 will be BETTER
