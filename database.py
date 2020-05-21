@@ -4,6 +4,7 @@
 Author: Nick Russo
 Purpose: A simple Flask web app that demonstrates the Model View Controller
 (MVC) pattern in a meaningful and somewhat realistic way.
+TEST
 """
 
 
