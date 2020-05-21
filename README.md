@@ -7,3 +7,6 @@ out. This makes it easy to toggle between different styles for version
 control testing.
 # globomantics_crm
 Still under development
+
+## really dangerous
+making these changes in github
